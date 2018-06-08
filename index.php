@@ -76,9 +76,11 @@ echo "</pre>";
 
 
 class A {
+
+    private $x = 0;
     public function foo() {
-        static $x = 0;
-        echo ++$x;
+
+        echo ++$this->$x;
     }
 }
 $a1 = new A();
@@ -102,7 +104,6 @@ $b1 = new B();
 $a1->foo();
 $b1->foo();
 $a1->foo();
-$b1->foo();
 $b1->foo();
 
 class A2 {
