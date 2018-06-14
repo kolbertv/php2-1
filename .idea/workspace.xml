@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67dac8bd-4683-48ba-bb79-532b16e70511" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="215" column="1" lean-forward="true" selection-start-line="215" selection-start-column="1" selection-end-line="215" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -44,10 +45,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="39" />
-    <option name="width" value="1756" />
-    <option name="height" value="968" />
+    <option name="x" value="212" />
+    <option name="y" value="6" />
+    <option name="width" value="1481" />
+    <option name="height" value="1142" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,6 +102,7 @@
       <updated>1528463855013</updated>
       <workItem from="1528463856134" duration="2566000" />
       <workItem from="1528540031753" duration="3017000" />
+      <workItem from="1528953852684" duration="9937000" />
     </task>
     <task id="LOCAL-00001" summary="начало">
       <created>1528466409966</created>
@@ -113,19 +115,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5583000" />
+    <option name="totallyTimeSpent" value="15520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="39" width="1756" height="968" extended-state="0" />
+    <frame x="212" y="6" width="1481" height="1142" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2529481" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1724138" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.15789473" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.13069306" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
@@ -152,16 +154,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.php</url>
-          <line>124</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="215" column="1" lean-forward="true" selection-start-line="215" selection-start-column="1" selection-end-line="215" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1921">
@@ -171,8 +174,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="215" column="1" lean-forward="true" selection-start-line="215" selection-start-column="1" selection-end-line="215" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
         </state>
       </provider>
     </entry>
